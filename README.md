@@ -4,3 +4,4 @@
 | 工具名称 | 简介 | 说明 |
 | --- | --- | --- |
 | https://heroicons.com/ | 免费的图标网站 | Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. |
+| https://storyset.com/ | 插画工具网站 | Storyset | Customize, animate and download illustration for free |
